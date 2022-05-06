@@ -1,0 +1,485 @@
+[
+  {
+    "brand": "FINAL AUDIO",
+    "brandModel": "A4000 EARPHONES",
+    "price": 159.0,
+    "color": {
+      "primary": {
+        "colorName": "Navy Blue",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/7J1A6656x_1200x1200.jpg?v=1610731869",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/7J1A6741x_1200x1200.jpg?v=1610731869"
+        ],
+        "quantity": 20
+      },
+      "secondary": {
+        "colorName": "Metal Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/7J1A6656x_1200x1200.jpg?v=1610731869",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/7J1A6741x_1200x1200.jpg?v=1610731869"
+        ],
+        "quantity": 18
+      }
+    }
+  },
+  {
+    "brand": "MOONDROP ",
+    "brandModel": "ARIA IEMS",
+    "price": 79.0,
+    "color": {
+      "primary": {
+        "colorName": "Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/MoonDrop-Aria-2021-Earphones-High-Performance-LCP-Diaphragm-Dynamic-IEMs-Earbuds-with-Detachable-Cable_1200x1200.png?v=1632423765",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/MoonDrop-Aria-2021-Earphones-High-Performance-LCP-Diaphragm-Dynamic-IEMs-Earbuds-with-Detachable-Cable_1_1200x1200.png?v=1632423766"
+        ],
+        "quantity": 21
+      },
+      "secondary": {
+        "colorName": "hatsune miku",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0031/0453/8673/products/moondrop-aria-2-2021-lcp-diaphragm-dynamic-driver-in-ear-monitors-iems-earphone-hifigo-aria-special-edition-566163_1000x1000.png?v=1646706032",
+          "https://cdn.shopify.com/s/files/1/0031/0453/8673/products/moondrop-aria-lcp-diaphragm-dynamic-driver-in-ear-monitors-iems-hifigo-258414_1043x1043.jpg?v=1638263527https://cdn.shopify.com/s/files/1/0065/4432/6771/products/7J1A6741x_1200x1200.jpg?v=1610731869"
+        ],
+        "quantity": 19
+      }
+    }
+  },
+  {
+    "brand": "FINAL AUDIO ",
+    "brandModel": "E1000 ",
+    "price": 29.99,
+    "color": {
+      "primary": {
+        "colorName": "Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/E1000_GALLERY_03_1200x1200.jpg?v=1627915646",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/E1000_GALLERY_01_1200x1200.jpg?v=1627915646"
+        ],
+        "quantity": 15
+      },
+      "secondary": {
+        "colorName": "navy",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/E1000_GALLERY_01_1200x1200.jpg?v=1627915646",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/E1000_GALLERY_11_1200x1200.jpg?v=1627915646"
+        ],
+        "quantity": 25
+      }
+    }
+  },
+  {
+    "brand": "FINAL AUDIO ",
+    "brandModel": "A8000 ",
+    "price": 1999.0,
+    "color": {
+      "primary": {
+        "colorName": "Silver",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/191123_new_Aseries_web_material_gallery-popup_01x_03a34ecf-a320-4876-9c98-bb86663e7658_1200x1200.jpg?v=1649790174",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/191123_new_Aseries_web_material_gallery-popup_14x_303a058a-feeb-4b1f-aba3-53670535ff16_1200x1200.jpg?v=1577728665"
+        ],
+        "quantity": 13
+      },
+      "secondary": {
+        "colorName": "silver weird",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/191123_new_Aseries_web_material_gallery-popup_08x_d8d1fa55-051b-4177-b39c-7f9a072b9a31_1200x1200.jpg?v=1649790174",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/191123_new_Aseries_web_material_gallery-popup_13x_22b79658-081c-4c51-bd37-1c750c58399a_1200x1200.jpg?v=1649790174"
+        ],
+        "quantity": 20
+      }
+    }
+  },
+  {
+    "brand": "MEZE RAI ",
+    "brandModel": "SOLO ELECTRODYNAMIC ",
+    "price": 199.0,
+    "color": {
+      "primary": {
+        "colorName": "Red",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Rai_Solo_Profile_1200x1200.jpg?v=1606847003",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Rai_Solo_1200x1200.jpg?v=1606847003"
+        ],
+        "quantity": 19
+      },
+      "secondary": {
+        "colorName": "Blue",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Rai_Solo_1200x1200.jpg?v=1606847003",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Rai_Solo_1200x1200.jpg?v=1606847003"
+        ],
+        "quantity": 10
+      }
+    }
+  },
+  {
+    "brand": "Meze Rai ",
+    "brandModel": "Penta IEMs ",
+    "price": 1099.0,
+    "color": {
+      "primary": {
+        "colorName": "Black matte",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/rai-penta_ALLupgradecables-FINAL_1024x1024_44852d9a-9dc2-459c-ac57-44f4e6f0fb7e_1200x1200.jpg?v=1606846744",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/meze-penta_1200x1200_0dbe82e9-3a09-4d87-99a1-dcf8e597f226_1200x1200.png?v=1605284675"
+        ],
+        "quantity": 11
+      },
+      "secondary": {
+        "colorName": "Navy Blue",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/articles/Meze_Rai_Penta_IEMs_and_cable_ef1309c7-d659-468e-9cd8-11f83556bd91.jpg?v=1562265809",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/meze-penta_1200x1200_0dbe82e9-3a09-4d87-99a1-dcf8e597f226_1200x1200.png?v=1605284675"
+        ],
+        "quantity": 29
+      }
+    }
+  },
+  {
+    "brand": "CAMPFIRE AUDIO",
+    "brandModel": "ANDROMEDA ",
+    "price": 1299.0,
+    "color": {
+      "primary": {
+        "colorName": "Green",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/andromeda-2019_2_1200x1200.gif?v=1602701883",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/andromeda-2019_4_1200x1200.gif?v=1602701934"
+        ],
+        "quantity": 14
+      },
+      "secondary": {
+        "colorName": "mushy orange",
+        "images": [
+          "https://d1aeri3ty3izns.cloudfront.net/media/68/682954/1200/preview.jpg",
+          "https://d1aeri3ty3izns.cloudfront.net/media/68/682959/1200/preview.jpg"
+        ],
+        "quantity": 27
+      }
+    }
+  },
+  {
+    "brand": "MOONDROP",
+    "brandModel": "KATO IEMS",
+    "price": 1899.0,
+    "color": {
+      "primary": {
+        "colorName": "Gloss silver",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/MoonDrop-KATO-Earphones-Dynamic-Earbuds-Replaceable-Sound-Nozzle-Headset-With-High-Quality-Detachable-0-78-2Pin_1200x1200.jpg?v=1636661810",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/MoondropKato11024x1024_1200x_2e8d9a76-8642-47fd-a502-d5e3a2980729_1200x1200.jpg?v=1636664323"
+        ],
+        "quantity": 15
+      },
+      "secondary": {
+        "colorName": "Matte Silver",
+        "images": [
+          "https://www.headphonesty.com/wp-content/uploads/2021/11/Kato_Cover_Photo.jpg",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/MoonDrop-KATO-Earphones-Dynamic-Earbuds-Replaceable-Sound-Nozzle-Headset-With-High-Quality-Detachable-0-78-2Pin_1_1200x1200.png?v=1636661810"
+        ],
+        "quantity": 20
+      }
+    }
+  },
+  {
+    "brand": "FINAL AUDIO",
+    "brandModel": "VR3000 ",
+    "price": 79.0,
+    "color": {
+      "primary": {
+        "colorName": "Black Matte",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/vr3000_1200x1200.png?v=1649793301",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/1013_ext_01_0_1200x1200.jpg?v=1630442939"
+        ],
+        "quantity": 31
+      },
+      "secondary": {
+        "colorName": "BLack",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/vr3000_1200x1200.png?v=1649793301",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/1013_ext_01_0_1200x1200.jpg?v=1630442939"
+        ],
+        "quantity": 50
+      }
+    }
+  },
+  {
+    "brand": "SENNHEISER",
+    "brandModel": "IE 300",
+    "price": 79.0,
+    "color": {
+      "primary": {
+        "colorName": "Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/x1_desktop_IE_300_Product_Website_Images_01_Desktop_web_1200x1200.jpg?v=1614623771",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/x1_desktop_IE_300_Sennheiser_05_Mobile_web_1200x1200.jpg?v=1614623796"
+        ],
+        "quantity": 17
+      },
+      "secondary": {
+        "colorName": "BLack",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/x1_desktop_IE_300_Product_Website_Images_01_Desktop_web_1200x1200.jpg?v=1614623771",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/x1_desktop_IE_300_Sennheiser_05_Mobile_web_1200x1200.jpg?v=1614623796"
+        ],
+        "quantity": 30
+      }
+    }
+  },
+  {
+    "brand": "KINERA",
+    "brandModel": "BD005 PRO ",
+    "price": 49.0,
+    "color": {
+      "primary": {
+        "colorName": "Gloss Blue",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Kinera-BD005-Pro13-scaled_1200x1200.jpg?v=1622050532",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Kinera-BD005-Pro11-scaled_1200x1200.jpg?v=1622050532"
+        ],
+        "quantity": 12
+      },
+      "secondary": {
+        "colorName": "Gloos Red",
+        "images": [
+          "https://www.kineraaudio.com/wp-content/uploads/2021/02/Kinera-BD005-Pro2-scaled.jpg",
+          "https://www.kineraaudio.com/wp-content/uploads/2021/02/Kinera-BD005-Pro5-scaled.jpg"
+        ],
+        "quantity": 27
+      }
+    }
+  },
+  {
+    "brand": "STRAUSS & WAGNER",
+    "brandModel": "SI201 ",
+    "price": 49.0,
+    "color": {
+      "primary": {
+        "colorName": "Silver-White",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/SI201_combo_1200x1200_392197e7-3437-4980-81c8-d72062a23a26_1200x1200.jpg?v=1603999252",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/SI201_2_copyx_1200x1200.jpg?v=1603999252"
+        ],
+        "quantity": 15
+      },
+      "secondary": {
+        "colorName": "Silver-Black",
+        "images": [
+          "https://i0.wp.com/audiorealviews.site/wp-content/uploads/2020/03/DSC00826-scaled.jpg?resize=1024%2C632",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/SI201_6_copyx_1200x1200.jpg?v=1603999252"
+        ],
+        "quantity": 17
+      }
+    }
+  },
+  {
+    "brand": "KINERA",
+    "brandModel": "Imperial Mount",
+    "price": 949.0,
+    "color": {
+      "primary": {
+        "colorName": "Blue-red",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/JIN_7796-scaled_1200x1200.jpg?v=1622046214",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Kinera-Nanna-2.0-2-scaled_1200x1200.jpg?v=1622046214"
+        ],
+        "quantity": 27
+      },
+      "secondary": {
+        "colorName": "Red-Blue",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/JIN_7796-scaled_1200x1200.jpg?v=1622046214",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Kinera-Nanna-2.0-2-scaled_1200x1200.jpg?v=1622046214"
+        ],
+        "quantity": 30
+      }
+    }
+  },
+  {
+    "brand": "FINAL AUDIO",
+    "brandModel": "B3 DUAL BA DRIVER EARPHONES",
+    "price": 499.0,
+    "color": {
+      "primary": {
+        "colorName": "Blue-red",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/final_b3_1_1200x1200_789985ab-f694-4416-9ac8-5a1b73860ad1_1200x1200.jpg?v=1598541590",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/b3_compile_5_1200x1200.jpg?v=1598541590"
+        ],
+        "quantity": 19
+      },
+      "secondary": {
+        "colorName": "Red-Blue",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/JIN_7796-scaled_1200x1200.jpg?v=1622046214",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Kinera-Nanna-2.0-2-scaled_1200x1200.jpg?v=1622046214"
+        ],
+        "quantity": 9
+      }
+    }
+  },
+  {
+    "brand": "CAMPFIRE AUDIO",
+    "brandModel": "SABER LIMITED EDITION",
+    "price": 449.0,
+    "color": {
+      "primary": {
+        "colorName": "Silver Striped",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Saber_Transparent_6_1200x1200.jpg?v=1639502692",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Saber_Transparent_2_1200x1200.jpg?v=1639502692"
+        ],
+        "quantity": 23
+      },
+      "secondary": {
+        "colorName": "Silver-Black",
+        "images": [
+          "https://campfireaudio.com/wp-content/uploads/2021/12/Saber-Images-for-Website-Saber-1.jpg",
+          "https://campfireaudio.com/wp-content/uploads/2021/12/Saber-Images-for-Website-Saber-1.jpg"
+        ],
+        "quantity": 25
+      }
+    }
+  },
+  {
+    "brand": "EMPIRE EARS",
+    "brandModel": "LEGEND EVO",
+    "price": 2789.0,
+    "color": {
+      "primary": {
+        "colorName": "Glossy Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Evo5x_1200x1200.jpg?v=1630945012",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Cable4x_1200x1200.jpg?v=1630945020"
+        ],
+        "quantity": 17
+      },
+      "secondary": {
+        "colorName": "Rainbow",
+        "images": [
+          "https://shoplineimg.com/5e0f02db92f5c9002a548b4a/60e7fb7d8bb0a9003e5e9cf7/2000x.webp?source_format=png",
+          "https://shoplineimg.com/5e0f02db92f5c9002a548b4a/60e7fb7d8bb0a9003e5e9cf7/2000x.webp?source_format=png"
+        ],
+        "quantity": 20
+      }
+    }
+  },
+  {
+    "brand": "FIIO",
+    "brandModel": "FH5S",
+    "price": 249.0,
+    "color": {
+      "primary": {
+        "colorName": "Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/4184062_1200x1200.jpg?v=1622060623",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/4184060_1200x1200.jpg?v=1622060623"
+        ],
+        "quantity": 15
+      },
+      "secondary": {
+        "colorName": "Silver",
+        "images": [
+          "https://cdn.webshopapp.com/shops/76048/files/376080206/fiio-fh5s.jpg",
+          "https://cdn.webshopapp.com/shops/76048/files/376080216/fiio-fh5s.jpg"
+        ],
+        "quantity": 13
+      }
+    }
+  },
+  {
+    "brand": "EMPIRE EARS",
+    "brandModel": "LEGEND X",
+    "price": 2299.0,
+    "color": {
+      "primary": {
+        "colorName": "Glossy Black",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/empe_lx_1_1200x1200.jpg?v=1552497552",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/empe_lx_2_1200x1200.jpg?v=1552497545"
+        ],
+        "quantity": 10
+      },
+      "secondary": {
+        "colorName": "White",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/2110/6297/products/LegendX3_1200x.jpg?v=1540833272",
+          "https://cdn.shopify.com/s/files/1/2110/6297/products/LegendX4_1200x.jpg?v=1540833272"
+        ],
+        "quantity": 40
+      }
+    }
+  },
+  {
+    "brand": "CAMPFIRE AUDIO",
+    "brandModel": "VEGA 2020",
+    "price": 699.0,
+    "color": {
+      "primary": {
+        "colorName": "Pearl White ",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Vega2020-Image1_1200x1200.jpg?v=1603294319",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/campfire-audio-vega-2020-1_1200x1200.jpg?v=1603295495"
+        ],
+        "quantity": 10
+      },
+      "secondary": {
+        "colorName": "Silver Shine",
+        "images": [
+          "https://campfireaudio.com/wp-content/uploads/2020/10/Dorado-2020-Web-1-1024x1024.jpg",
+          "https://campfireaudio.com/wp-content/uploads/2020/10/Dorado-2020-Web-3-1024x1024.jpg"
+        ],
+        "quantity": 40
+      }
+    }
+  },
+  {
+    "brand": "SHURE",
+    "brandModel": "AONIC 215",
+    "price": 99.0,
+    "color": {
+      "primary": {
+        "colorName": "Transparent Black ",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/555cb9102823029221ac19bde4c2d61e_1200x1200.jpg?v=1606846255",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/1ce207dfdd222133e955f1fc3fc79fbc_1200x1200.jpg?v=1606846255"
+        ],
+        "quantity": 15
+      },
+      "secondary": {
+        "colorName": "Transparent ",
+        "images": [
+          "https://files.emusic.se/files/product_images/69461/highres_SE215DYCLUNI-EFS_emusic_1.jpg",
+          "https://files.emusic.se/files/product_images/69461/highres_SE215DYCLUNI-EFS_emusic_2.jpg"
+        ],
+        "quantity": 22
+      }
+    }
+  },
+  {
+    "brand": "64 AUDIO",
+    "brandModel": "DUO DUAL",
+    "price": 1199.0,
+    "color": {
+      "primary": {
+        "colorName": "Silver Black ",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Duo-Landing-Page-WEB-2_1200x1200.jpg?v=1631911199",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Duo-Landing-cable_1200x1200.jpg?v=1631911210"
+        ],
+        "quantity": 15
+      },
+      "secondary": {
+        "colorName": "Silver ",
+        "images": [
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Duo-Landing-Page-WEB-2_1200x1200.jpg?v=1631911199",
+          "https://cdn.shopify.com/s/files/1/0065/4432/6771/products/Duo-Landing-cable_1200x1200.jpg?v=1631911210"
+        ],
+        "quantity": 22
+      }
+    }
+  }
+]
