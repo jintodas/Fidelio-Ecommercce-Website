@@ -1,6 +1,8 @@
 # Fidelio-Ecommercce-Website Project
 Team 2  Hyper Island FED 23
-Create an e-commerce website and Apply Agile method
+Create an e-commerce website 
+
+
 BRIEF
 Create an e-commerce website and Apply Agile method
 
